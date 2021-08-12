@@ -4,7 +4,7 @@
 
 1.  Images of the events of interest should be acquired at the highest
     possible magnification (60x) that fully includes the events in the
-    field of view and at a speed of max 1,000 cells/min.
+    field of view and at a speed of max 1,000 cells/min. 
 
 2.  About 10,000 nucleated and focused events should be saved for each
     sample and multiple samples should be run as biological replicates
